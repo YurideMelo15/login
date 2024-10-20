@@ -137,6 +137,7 @@ div.github {
 
 div.github > a {
     text-decoration: none;
+    color: #551A8B;
 }
 
 a:hover {
@@ -154,6 +155,7 @@ div.instagram {
 
 div.instagram > a {
     text-decoration: none;
+    color: #551A8B;
 }
 
 div > a > i {
