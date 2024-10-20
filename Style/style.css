@@ -140,7 +140,7 @@ div.github > a {
     color: #551A8B;
 }
 
-a:hover {
+div.SocialMedias > div > a:hover {
     color: white;
     transition: all 0.3s;
 }
