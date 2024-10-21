@@ -161,3 +161,9 @@ div.instagram > a {
 div > a > i {
     width: 20px;
 }
+
+@media screen and (orientation: landscape) {
+    main.container {
+        height: 310px;
+    }
+}
